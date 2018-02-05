@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NdeyeServices", "ndeyeServices\NdeyeServices.csproj", "{C47535D2-9E2F-414C-925A-298F2B8AFA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciWindowForm", "FibonacciWindowForm\FibonacciWindowForm.csproj", "{16B716AB-1273-4F57-897B-BF2658DA6168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NdeyeServices.Test", "FibonacciTest\NdeyeServices.Test.csproj", "{0F5489F6-F408-433F-A401-5B797BC55472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47535D2-9E2F-414C-925A-298F2B8AFA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47535D2-9E2F-414C-925A-298F2B8AFA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47535D2-9E2F-414C-925A-298F2B8AFA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47535D2-9E2F-414C-925A-298F2B8AFA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B716AB-1273-4F57-897B-BF2658DA6168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B716AB-1273-4F57-897B-BF2658DA6168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B716AB-1273-4F57-897B-BF2658DA6168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B716AB-1273-4F57-897B-BF2658DA6168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5489F6-F408-433F-A401-5B797BC55472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5489F6-F408-433F-A401-5B797BC55472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5489F6-F408-433F-A401-5B797BC55472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5489F6-F408-433F-A401-5B797BC55472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
